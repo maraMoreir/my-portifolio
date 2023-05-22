@@ -22,7 +22,7 @@ export default function Header() {
             Silmara Moreira
           </Title>
           <SubTitle>
-            Desenvolvedora Web
+            Software Engineer
           </SubTitle>
         </ContentTitle>
         <Menu>
