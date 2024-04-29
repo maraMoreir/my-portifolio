@@ -1,7 +1,7 @@
 import React from "react";
-import HeroContent from "../sub/HeroContent";
+import { HeroContent } from "../sub/HeroContent";
 
-const Hero = () => {
+export const Hero = () => {
   return (
     <div className="relative flex flex-col h-full w-full" id="about-me">
       <video
@@ -16,5 +16,3 @@ const Hero = () => {
     </div>
   );
 };
-
-export default Hero;

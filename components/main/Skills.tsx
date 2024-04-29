@@ -1,9 +1,9 @@
 import { Backend_skill, Frontend_skill, Other_skill } from "@/constants";
 import React from "react";
-import SkillDataProvider from "../sub/SkillDataProvider";
-import SkillText from "../sub/SkillText";
+import { SkillDataProvider } from "../sub/SkillDataProvider";
+import { SkillText } from "../sub/SkillText";
 
-const Skills = () => {
+export const Skills = () => {
   return (
     <section
       id="skills"
@@ -62,5 +62,3 @@ const Skills = () => {
     </section>
   );
 };
-
-export default Skills;

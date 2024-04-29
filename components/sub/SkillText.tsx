@@ -3,7 +3,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { slideInFromLeft, slideInFromRight } from "@/utils/motion";
 
-const SkillText = () => {
+export const SkillText = () => {
   return (
     <div className="w-full h-auto flex flex-col items-center justify-center">
       <motion.div
@@ -15,5 +15,3 @@ const SkillText = () => {
     </div>
   );
 };
-
-export default SkillText;
