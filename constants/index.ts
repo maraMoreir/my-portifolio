@@ -1,8 +1,4 @@
-export const Skill_data = [
 
-
-
-  ];
   
 export const Socials = [
   {
