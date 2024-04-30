@@ -77,12 +77,6 @@ export const Socials = [
       height: 80,
     },
     {
-      skill_name: "Framer Motion",
-      Image: "/framer.png",
-      width: 65,
-      height: 65,
-    },
-    {
       skill_name: "Stripe Payment",
       Image: "/stripe.webp",
       width: 65,
