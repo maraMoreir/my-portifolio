@@ -47,9 +47,7 @@ export const HeroContent = () => {
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
           Graduanda em análise e desenvolvimento de sistemas, com experiência em
-          desenvolvimento de sistemas e sites. Além disso, possuo experiência em
-          integração com sistemas SAP, o que amplia minha capacidade de atender
-          às necessidades de integração de dados empresariais.
+          desenvolvimento de sistemas e sites.
         </motion.p>
       </div>
 
